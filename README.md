@@ -109,7 +109,7 @@ These visualizations help in understanding the relationships between different c
 
 4. Run the analysis and modeling:
    ```bash
-   python main.py
+   python main.ipnyb
    ```
 
 ## Contributors
